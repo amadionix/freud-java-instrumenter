@@ -25,6 +25,8 @@ Run Instrumented Class (and see the results in the console):
 
 Alternatively, you can also just run the `RunIntstrumentedMethod` class, passing as parameter the `<name-of-class-you-wish-to-instrument>`.
 
+Non-mantained repository with additional work: https://gitlab.software.imdea.org/nicola.amadio/freud-java-instrumentation
 
+This repository here was branched out from above one at commit 9e9c30c9bb4af99a4446e11ad518be51390403df.
 
 # freud-java-instrumenter
